@@ -5,6 +5,7 @@ After I found or newest passion on our holidays on Hawaii, my newest dream is to
 
 ## Results
 We are going to present the results, and reference some of the principal differences that we got from the analysis: 
+
 ![image](https://user-images.githubusercontent.com/113566508/205460759-cfe52413-9e7b-4363-abe6-88e46b2d3d04.png)
 June tempeture information
 ![image](https://user-images.githubusercontent.com/113566508/205460738-191cb601-878a-4eed-9e23-436a56cf357b.png)
